@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\13bub\OneDrive\Documents\Visual Studio Projects\BaseConversion\BaseConversion\Source.cpp(74,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\13bub\OneDrive\Documents\Visual Studio Projects\BaseConversion\BaseConversion\Source.cpp(107,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  BaseConversion.vcxproj -> C:\Users\13bub\OneDrive\Documents\Visual Studio Projects\BaseConversion\x64\Debug\BaseConversion.exe
